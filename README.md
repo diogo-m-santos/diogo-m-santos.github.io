@@ -30,4 +30,4 @@ Performing descriptive and inferential statistics to predict and prevent failure
 
 E-mail address: diogomiguelbsantos@gmail.com 
 
-LinkedIn profile: https://www.linkedin.com/in/diogo-santos/
+LinkedIn profile: [https://www.linkedin.com/in/diogo-santos/](https://www.linkedin.com/in/diogo-santos/)
