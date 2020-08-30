@@ -12,7 +12,7 @@ I’m an aspiring business intelligence developer and data analyst who worked in
 
 -	Developing a Regressive Model to Predict Final Sale Price of Houses Based on Known House Characteristics with Microsoft Excel.
 
-  •	PowerPoint Presentation
+    •	PowerPoint Presentation
 
 -	Analyzing business data on market segments and product performance for a chemical plant, and reporting results and actionable insights on investment and divestment opportunities over segments and products using Power BI;
 
