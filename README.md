@@ -1,3 +1,21 @@
+# Welcome to my professional portfolio
+
+I’m an aspiring business intelligence developer and data analyst who worked in behavioral science designing programs with social impact. I’m excited about using my skills in experimentation, Python, SQL, Power BI and Tableau to develop models and visualizations that deliver insights to improve lives.
+
+## Get to know some of my projects here:
+
+Developing a Regressive Model to Predict Final Sale Price of Houses Based on Known House Characteristics 
+
+Using Data on Time, Location and Weather Conditions to Predict Demand and Profitability of Uber & Lyft Rides.
+
+Analyzing business data on market segments and product performance for a chemical plant, and reporting results and actionable insights on investment and divestment opportunities over segments and products using Power BI;
+
+•	Analyzing data about the energy market with PostgreSQL and using Tableau to develop a dashboard with actionable insights regarding the reliability of market players; 
+
+•	Performing descriptive and inferential statistics to predict and prevent failure of a machine. Provided insights and actionable recommendations to improve metrics
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/diogo-m-santos/diogo-m-santos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
