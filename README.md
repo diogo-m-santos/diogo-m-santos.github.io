@@ -6,8 +6,9 @@ I’m an aspiring business intelligence developer and data analyst who worked in
 
 •	Using Data on Time, Location and Weather Conditions to Predict Demand and Profitability of Uber & Lyft Rides Using Python and Power BI.
 
-  •	[Jupyter Notebook](add link)
-  •	[Power BI Dashboard](add link)
+  -	[Jupyter Notebook](add link)
+
+  -	[Power BI Dashboard](add link)
 
 •	Developing a Regressive Model to Predict Final Sale Price of Houses Based on Known House Characteristics with Microsoft Excel.
 
