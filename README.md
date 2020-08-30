@@ -6,7 +6,7 @@ I’m an aspiring business intelligence developer and data analyst who worked in
 
 Using Data on Time, Location and Weather Conditions to Predict Demand and Profitability of Uber & Lyft Rides Using Python and Power BI.
 
-   - Check my analysis on [Jupyter Notebook](add link)
+   - Check my analysis on [Jupyter Notebook](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Capstone%20Project%202.ipynb)
 
    - See my insights on a [Power BI Dashboard](add link)
 
