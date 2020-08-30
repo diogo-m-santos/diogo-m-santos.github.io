@@ -2,29 +2,29 @@
 
 I’m an aspiring business intelligence developer and data analyst who worked in behavioral science designing programs with social impact. I’m excited about using my skills in experimentation, Python, SQL, Power BI and Tableau to develop models and visualizations that deliver insights to improve lives.
 
-## Get to know some of my projects here:
+### Get to know some of my projects
 
 Using Data on Time, Location and Weather Conditions to Predict Demand and Profitability of Uber & Lyft Rides Using Python and Power BI.
 
-   - check my analysis on [Jupyter Notebook](add link)
+   - Check my analysis on [Jupyter Notebook](add link)
 
-   - see my insights on [Power BI Dashboard](add link)
+   - See my insights on [Power BI Dashboard](add link)
 
 Developing a Regressive Model to Predict Final Sale Price of Houses Based on Known House Characteristics with Microsoft Excel.
 
-   - see more information about this [PowerPoint Presentation](add link)
+   - See more information about this [PowerPoint Presentation](add link)
 
 Analyzing business data on market segments and product performance for a chemical plant, and reporting results and actionable insights on investment and divestment opportunities over segments and products using Power BI.
 
-   - check my results and insights on [Power BI Dashboard](add link)
+   - Check my results and insights on [Power BI Dashboard](add link)
 
 Analyzing data about the energy market and developing a dashboard with actionable insights regarding the reliability of market players using Tableau.
 
-   - check my insights in [Tableau Dashborad](add link)
+   - Check my insights in [Tableau Dashborad](add link)
 
 Performing descriptive and inferential statistics to predict and prevent failure of a water pump machine, and providing insights and actionable recommendations to improve metrics.
 
-   - see more information about this [PowerPoint Presentation](add link)
+   - See more information about this [PowerPoint Presentation](add link)
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
