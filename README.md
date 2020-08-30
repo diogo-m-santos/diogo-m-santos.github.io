@@ -4,21 +4,27 @@ I’m an aspiring business intelligence developer and data analyst who worked in
 
 ## Get to know some of my projects here:
 
--	Using Data on Time, Location and Weather Conditions to Predict Demand and Profitability of Uber & Lyft Rides Using Python and Power BI.
+Using Data on Time, Location and Weather Conditions to Predict Demand and Profitability of Uber & Lyft Rides Using Python and Power BI.
 
-    •	[Jupyter Notebook](add link)
+    •	check my analysis on [Jupyter Notebook](add link)
 
-    •	[Power BI Dashboard](add link)
+    •	see my insights on [Power BI Dashboard](add link)
 
--	Developing a Regressive Model to Predict Final Sale Price of Houses Based on Known House Characteristics with Microsoft Excel.
+Developing a Regressive Model to Predict Final Sale Price of Houses Based on Known House Characteristics with Microsoft Excel.
 
-    •	PowerPoint Presentation
+    •	see more information about this [PowerPoint Presentation](add link)
 
--	Analyzing business data on market segments and product performance for a chemical plant, and reporting results and actionable insights on investment and divestment opportunities over segments and products using Power BI;
+Analyzing business data on market segments and product performance for a chemical plant, and reporting results and actionable insights on investment and divestment opportunities over segments and products using Power BI.
 
--	Analyzing data about the energy market with PostgreSQL and using Tableau to develop a dashboard with actionable insights regarding the reliability of market players; 
+    • check my results and insights on [Power BI Dashboard](add link)
 
--	Performing descriptive and inferential statistics to predict and prevent failure of a machine. Provided insights and actionable recommendations to improve metrics
+Analyzing data about the energy market and developing a dashboard with actionable insights regarding the reliability of market players using Tableau.
+
+    • check my insights in [Tableau Dashborad](add link)
+
+Performing descriptive and inferential statistics to predict and prevent failure of a water pump machine, and providing insights and actionable recommendations to improve metrics.
+
+    •	see more information about this [PowerPoint Presentation](add link)
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
