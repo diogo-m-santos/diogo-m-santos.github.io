@@ -12,29 +12,21 @@ Using Data on Time, Location and Weather Conditions to Predict Demand and Profit
 
 Developing a Regressive Model to Predict Final Sale Price of Houses Based on Known House Characteristics with Microsoft Excel.
 
-   • see more information about this [PowerPoint Presentation](add link)
+   - see more information about this [PowerPoint Presentation](add link)
 
 Analyzing business data on market segments and product performance for a chemical plant, and reporting results and actionable insights on investment and divestment opportunities over segments and products using Power BI.
 
-   • check my results and insights on [Power BI Dashboard](add link)
+   - check my results and insights on [Power BI Dashboard](add link)
 
 Analyzing data about the energy market and developing a dashboard with actionable insights regarding the reliability of market players using Tableau.
 
-   • check my insights in [Tableau Dashborad](add link)
+   - check my insights in [Tableau Dashborad](add link)
 
 Performing descriptive and inferential statistics to predict and prevent failure of a water pump machine, and providing insights and actionable recommendations to improve metrics.
 
-   • see more information about this [PowerPoint Presentation](add link)
+   - see more information about this [PowerPoint Presentation](add link)
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-# Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/diogo-m-santos/diogo-m-santos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-And can I redirect to [here](https://github.com/diogo-m-santos/diogo-m-santos.github.io/master/test.md) ?
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -59,10 +51,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diogo-m-santos/diogo-m-santos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
