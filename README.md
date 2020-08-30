@@ -1,8 +1,8 @@
-# Is this showing?
-
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/diogo-m-santos/diogo-m-santos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+And can I redirect to [here](https://github.com/diogo-m-santos/diogo-m-santos.github.io/master/test.md) ?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
