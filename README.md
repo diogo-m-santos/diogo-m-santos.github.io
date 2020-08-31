@@ -27,6 +27,7 @@ Analyzing data about the energy market and developing a dashboard with actionabl
 Performing descriptive and inferential statistics to predict and prevent failure of a water pump machine, and providing insights and actionable recommendations to improve metrics.
 
    - See more information on this [PowerPoint Presentation](add link)
+   - Check my analysis on [Jupyter Notebook](link)
 
 # Contacts
 
