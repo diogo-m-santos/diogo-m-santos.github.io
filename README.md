@@ -12,7 +12,9 @@ Using Data on Time, Location and Weather Conditions to Predict Demand and Profit
 
 Developing a Regressive Model to Predict Final Sale Price of Houses Based on Known House Characteristics with Microsoft Excel.
 
-   - See more information on this [PowerPoint Presentation](add link)
+   - See more information on this [PowerPoint Presentation](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Developing%20a%20Regressive%20Model%20to%20Predict%20Final%20Sale%20Price%20of%20Houses%20(Technical%20Slide%20Deck).pdf)
+   
+   - Check my analysis on [Microsoft Excel](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Developing%20a%20Regressive%20Model%20to%20Predict%20Final%20Sale%20Price%20of%20Houses%20(Analysis).xlsx)
 
 Analyzing business data on market segments and product performance for a chemical plant, and reporting results and actionable insights on investment and divestment opportunities over segments and products using Power BI.
 
