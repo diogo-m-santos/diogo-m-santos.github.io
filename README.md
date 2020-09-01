@@ -1,4 +1,3 @@
-# Welcome to my professional portfolio
 
 I’m an aspiring business intelligence developer and data analyst who worked in behavioral science designing programs with social impact. I’m excited about using my skills in experimentation, Python, SQL, Power BI and Tableau to develop models and visualizations that deliver insights to improve lives.
 
