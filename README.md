@@ -9,25 +9,24 @@ I used data on Uber & Lyft rides to predict demand and assess the profitability 
 
    - See my insights on this [Power BI Dashboard](https://drive.google.com/file/d/1MS2DsnimsR3Ch9SHa4b934SNuVkRjFb2/view?usp=sharing) (link to file on Google Drive)
 
-## Helping house buyers and sellers negotiate house prices accurately and fairly. 
+### Helping house buyers and sellers negotiate house prices accurately and fairly. 
 House prices are influenced by many factors. Some of them are fairly well-known to the general public, but many factors are not known to most home buyers, impairing their ability to negotiate house prices accurately and fairly. I developed a regressive model to predict final sale price of houses based on known house characteristics with Microsoft Excel, and created a technical slide deck to report on process and results.
 
    - See more information on this [PowerPoint Presentation](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Developing%20a%20Regressive%20Model%20to%20Predict%20Final%20Sale%20Price%20of%20Houses%20(Technical%20Slide%20Deck).pdf)
    
    - Check my analysis on [Microsoft Excel](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Developing%20a%20Regressive%20Model%20to%20Predict%20Final%20Sale%20Price%20of%20Houses%20(Analysis).xlsx)
 
-#### 
-Analyzing business data on market segments and product performance for a chemical plant, and reporting results and actionable insights on investment and divestment opportunities over segments and products using Power BI.
-
+### Informing a short-term action plan to develop a new costumer strategy, explore market opportunities and divest on underperforming products.
+ChemCorp is a mock company that produces chemical products. I analyzed business data on market segments and product performance with the goal of informing a new customer strategy, understanding what market opportunities exist to explore and what products are underperforming. Developed a Power BI dashboard to report on the results and provide actionable insights on investment and divestment opportunities over segments and products.
 
    - Check my results and insights on this [Power BI Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20market%20segments%20and%20product%20performance%20for%20a%20chemical%20plant.pbix)
 
-#### Analyzing data about the energy market and developing a dashboard with actionable insights regarding the reliability of market players using Tableau.
+### Analyzing data about the energy market and developing a dashboard with actionable insights regarding the reliability of market players using Tableau.
 (add a discription)
 
    - Check my insights in this [Tableau Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20data%20about%20the%20energy%20market.twbx)
 
-#### Performing descriptive and inferential statistics to predict and prevent failure of a water pump machine, and providing insights and actionable recommendations to improve metrics.
+### Performing descriptive and inferential statistics to predict and prevent failure of a water pump machine, and providing insights and actionable recommendations to improve metrics.
 (add a discription)
 
    - See more information on this [PowerPoint Presentation](add link)
