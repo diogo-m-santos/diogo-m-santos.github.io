@@ -19,15 +19,15 @@ House prices are influenced by many factors. Some of them are fairly well-known 
 ### Informing a short-term action plan to develop a new costumer strategy, explore market opportunities and divest on underperforming products.
 ChemCorp is a mock company that produces chemical products. I analyzed business data on market segments and product performance with the goal of informing a new customer strategy, understanding what market opportunities exist to explore and what products are underperforming. Developed a Power BI dashboard to report on the results and provide actionable insights on investment and divestment opportunities over segments and products.
 
-   - Check my results and insights on this [Power BI Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20market%20segments%20and%20product%20performance%20for%20a%20chemical%20plant.pbix)
+   - Check my analysis & insights on this [Power BI Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20market%20segments%20and%20product%20performance%20for%20a%20chemical%20plant.pbix)
 
-### Identifying unreliable players unreliable players in the energy market
+### Identifying unreliable players in the energy market
 The AEMR is a mock energy market regulator responsible for looking after the domestic energy network in the USA. I analyzed data about energy outages to understand the nature of these outages and identify the most unreliable energy providers. Used Tableau to develop a dashboard with actionable insights for corrective measures.
 
-   - Check my insights in this [Tableau Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20data%20about%20the%20energy%20market.twbx)
+   - Check my analysis & insights in this [Tableau Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20data%20about%20the%20energy%20market.twbx)
 
-### Performing descriptive and inferential statistics to predict and prevent failure of a water pump machine, and providing insights and actionable recommendations to improve metrics.
-(add a discription)
+### Predicting & preventing machine failure (currently revising this analysis, links will be updated soon)
+Southwater Corp is a mock company that owns a series of water dessalination plants. I used data on water pump failures to develop a regressive model to predict these failures, with the goal of reducing plant's downtime and manitenance costs. Performed the analysis in Python, and created a presentation with the results and suggested and preventing metrics.
 
    - See more information on this [PowerPoint Presentation](add link)
    - Check my analysis on this [Jupyter Notebook](add link)
