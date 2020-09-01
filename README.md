@@ -21,8 +21,8 @@ ChemCorp is a mock company that produces chemical products. I analyzed business 
 
    - Check my results and insights on this [Power BI Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20market%20segments%20and%20product%20performance%20for%20a%20chemical%20plant.pbix)
 
-### Analyzing data about the energy market and developing a dashboard with actionable insights regarding the reliability of market players using Tableau.
-(add a discription)
+### Identifying unreliable players unreliable players in the energy market
+The AEMR is a mock energy market regulator responsible for looking after the domestic energy network in the USA. I analyzed data about energy outages to understand the nature of these outages and identify the most unreliable energy providers. Used Tableau to develop a dashboard with actionable insights for corrective measures.
 
    - Check my insights in this [Tableau Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20data%20about%20the%20energy%20market.twbx)
 
@@ -32,7 +32,7 @@ ChemCorp is a mock company that produces chemical products. I analyzed business 
    - See more information on this [PowerPoint Presentation](add link)
    - Check my analysis on this [Jupyter Notebook](add link)
 
-# Contacts
+# Get in touch
 
 E-mail address: diogomiguelbsantos@gmail.com 
 
