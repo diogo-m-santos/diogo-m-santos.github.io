@@ -1,5 +1,5 @@
 
-I’m a business intelligence developer and data analyst whih experience working in behavioral science designing experimental and quasi-experimental evaluations of programs with social impact. I’m excited about using my skills in experimentation, Python, SQL, Power BI and Tableau to develop models and visualizations that deliver insights to improve lives.
+I’m a business intelligence developer and data analyst with experience working in behavioral science designing experimental and quasi-experimental evaluations of programs with social impact. I’m excited about using my skills in experimentation, Python, SQL, Power BI and Tableau to develop models and visualizations that deliver insights to improve lives.
 
 ## Get to know some of my projects
 
