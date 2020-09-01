@@ -22,7 +22,7 @@ Analyzing business data on market segments and product performance for a chemica
 
 Analyzing data about the energy market and developing a dashboard with actionable insights regarding the reliability of market players using Tableau.
 
-   - Check my insights in a [Tableau Dashborad](add link)
+   - Check my insights in a [Tableau Dashborad](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20data%20about%20the%20energy%20market.twbx)
 
 Performing descriptive and inferential statistics to predict and prevent failure of a water pump machine, and providing insights and actionable recommendations to improve metrics.
 
