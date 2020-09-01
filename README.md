@@ -26,7 +26,7 @@ The AEMR is a mock energy market regulator responsible for looking after the dom
 
    - Check my analysis & insights in this [Tableau Dashboard](https://github.com/diogo-m-santos/diogo-m-santos.github.io/blob/master/Analyzing%20data%20about%20the%20energy%20market.twbx)
 
-### Predicting & preventing machine failure (currently revising this analysis, links will be updated soon)
+### Predicting & preventing machine failure (currently reviewing this analysis, links will be updated soon)
 Southwater Corp is a mock company that owns a series of water dessalination plants. I used data on water pump failures to develop a regressive model to predict these failures, with the goal of reducing plant's downtime and manitenance costs. Performed the analysis in Python, and created a presentation with the results and suggested and preventing metrics.
 
    - See more information on this [PowerPoint Presentation](add link)
